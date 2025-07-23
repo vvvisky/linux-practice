@@ -1,1 +1,3 @@
+mkdir -p ~/practice
+touch ~/practice/summary.txt
 
